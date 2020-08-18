@@ -1,0 +1,51 @@
+
+.calculator {
+    
+    width: 15%;
+    margin: 0 auto;
+    margin-top: 5%;
+    background-color: maroon;
+}
+
+.clearArea {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+button {
+    
+    outline: none;
+    margin: -0.5%;
+    width: 25.6%;
+    height: 3rem;
+    border: 1px solid maroon;
+    background-color: white;
+    font-size: 1.2rem;
+}
+
+.bigButton {
+    width: 74.5%;
+    border-left: white;
+}
+
+.screen {
+    background-color: #423437;
+   
+    margin: 0;
+    padding: 0.5rem 0;
+    padding-right: 0.2rem;
+    color: white;
+    text-align: right;
+}
+
+.op {
+    background-color: #ED3A4F;
+    color: white;
+}
+
+.bop {
+    width: 25.5%;
+    border-right: transparent;
+}
